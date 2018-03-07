@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.2",
-    "inquirer": "^5.1.0",
     "prompts": "^0.1.4",
     "tail": "^1.2.3"
   }
